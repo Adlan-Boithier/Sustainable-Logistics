@@ -22,3 +22,5 @@ This project enhances tourism in Switzerland by improving affordability, environ
 Depending on the number of passengers, a train can be up to 10 times more ecological than a car for the same distance travelled.
 - A route creation tool may be implemented for tourists in order to optimize their trip in the any way wanted.
 
+You can find the complete report of this project [here](https://github.com/Adlan-Boithier/Sustainable-Logistics/blob/main/Sustainable%20logistics%20report.pdf)
+
